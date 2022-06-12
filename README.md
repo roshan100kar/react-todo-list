@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosted URL : https://zippy-rugelach-fb6cf6.netlify.app/
 
 ## Available Scripts
 
